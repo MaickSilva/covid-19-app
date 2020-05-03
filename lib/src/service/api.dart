@@ -5,7 +5,7 @@ import 'dart:async';
 import 'dart:convert';
 
   final baseUrlBazil = 'https://xx9p7hp1p7.execute-api.us-east-1.amazonaws.com';
-  final baseUrlWorld = 'http://coronavirusdata.herokuapp.com/';
+  final baseUrlWorld = 'https://coronavirusdata.herokuapp.com/';
 
    Map<String, String> headerParams = {
     'content-Type': 'application/json; charset=utf-8',
