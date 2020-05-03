@@ -11,7 +11,12 @@ class CasesPerStateChart extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Casos por região'),
+        title: Text(
+          'Casos por região',
+          style: TextStyle(
+            color: Colors.white,
+          ),
+        ),
         centerTitle: true,
       ),
       drawer: MainDrawer(),

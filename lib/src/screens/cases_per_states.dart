@@ -13,7 +13,10 @@ class BrazilCasesStateScreen extends StatelessWidget {
       appBar: AppBar(
         title: Text(
           "Casos por estado no Brasil",
-          style: TextStyle(fontSize: 18),
+          style: TextStyle(
+            fontSize: 18,
+            color: Colors.white,
+          ),
         ),
         centerTitle: true,
       ),
