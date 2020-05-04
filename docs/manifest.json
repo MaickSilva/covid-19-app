@@ -1,11 +1,11 @@
 {
-    "name": "covid_app",
+    "name": "Covid-19 APP",
     "short_name": "covid_app",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Um projeto feito em flutter para exibir dados da covid-19.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
